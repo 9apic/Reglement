@@ -11,7 +11,7 @@ Il existe deux régimes d’inscriptions : l’inscription individuelle et l’i
 
 **Régime individuel** :
 Les adultes et les enfants de 16 ans s’inscrivent de façon individuelle.
-L’inscription leur donne accès au mur n’importe quand dans les limites des créneaux accordés par la Mairie du 9^ème^ Arrondissement sous réserve qu'un référent soit présent.
+L’inscription leur donne accès au mur n’importe quand dans les limites des créneaux accordés par la Mairie du 9^ème^ Arrondissement.
 
 **Régime famille** :
 les enfants jusqu'à 15 ans peuvent s’inscrire dans le cadre d’une inscription famille.
@@ -24,7 +24,7 @@ Les enfants non inscrits ne sont pas autorisés au pied du mur.
 
 Généralement, les inscriptions ont lieu à la rentrée de septembre et se font en remplissant un formulaire web.
 S'il y a plus de demandes que de places disponibles, la sélection est faite par tirage au sort.
-Suivant la fréquentation, nous sommes susceptibles de rouvrir des places en février, mais cela n’est en aucun cas systématique.
+Suivant la fréquentation, nous sommes susceptibles de rouvrir des places en janvier, mais cela n’est en aucun cas systématique.
 Enfin, les adhérents de l’année passée disposent bien évidemment d’une place pour l’année suivante s’ils souhaitent se réinscrire, à la condition expresse qu’ils possèdent leur numéro de licence.
 
 ## Cotisation
@@ -37,7 +37,7 @@ Enfin, les adhérents de l’année passée disposent bien évidemment d’une p
 |Tarif moins de 16 ans | 20€|
 +----------------------+----+
 
-\*Le tarif réduit est disponible uniquement pour les étudiants boursiers et les bénéficiaires de minima sociaux. En particulier il n'est pas disponible pour les étudiants non boursiers.
+\*Le tarif réduit est disponible uniquement pour les étudiants et les bénéficiaires de minima sociaux.
 
 
 ## Validation de l'inscription
@@ -72,7 +72,7 @@ Des formations préalables aux sorties falaises sont dispensées régulièrement
 ## Créneaux
 
 Nous disposons de créneaux au Centre d’Animation de la Tour des Dames.
-La grimpe à 9àPic est exclusivement possible pendant ces créneaux et uniquement en présence d'un référent.
+La grimpe à 9àPic est exclusivement possible pendant ces créneaux.
 L'accès au mur est interdit à toute personne non licenciée.
 Par ailleurs, l’accès au mur peut aussi être refusé à tout débutant n’ayant pas été déclaré autonome par un des formateurs et à toute personne ne respectant pas les règles de sécurité.
 Tous les créneaux sont ouverts aux familles.
@@ -82,7 +82,7 @@ Pour information, le créneau du samedi matin est le plus fréquenté par les en
 ## Sécurité
 
 **Quelques règles de sécurité**
-Il est demandé à chacun, s’il remarque un comportement à risque, d’informer la personne concernée du risque auquel elle s’expose ou auquel elle expose les autres et de reporter ces comportements auprès du référent de séance.
+Il est demandé à chacun, s’il remarque un comportement à risque, d’informer la personne concernée du risque auquel elle s’expose ou auquel elle expose les autres et de reporter ces comportements auprès du bureau.
 
 Voici une liste non exhaustive de comportements à risque :
 
